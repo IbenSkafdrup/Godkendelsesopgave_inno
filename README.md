@@ -35,10 +35,10 @@ Scan QR-koden med Expo Go (iOS/Android), eller kør i simulator via `i` / `a` i 
 |---|---|---|
 | Version 1 (godkendelsesopgave 1) | Opgaveliste, Opgavedetalje, Profil | Simon Holst |
 | Fase 1: fundament (datamodel, AsyncStorage, context, rollebaseret navigation, rolleskift, nulstil demodata) | `data/`, `context/AppContext.js`, `App.js`, `components/`, `utils/format.js`, `styles/GlobalStyle.js`, eksisterende screens | Simon Holst |
-| Modul A: Opret opgave (virksomhed) | `screens/OpretOpgaveScreen.js`, `styles/OpretOpgaveStyle.js` | [navn] |
-| Modul B: Mine opgaver og ansøgere (virksomhed) | `screens/MineOpgaverScreen.js`, `styles/MineOpgaverStyle.js` | [navn] |
-| Modul C: Mine ansøgninger (studerende) | `screens/MineAnsoegningerScreen.js`, `styles/MineAnsoegningerStyle.js` | [navn] |
-| Modul D: Filter, lokation og radius (studerende) | `screens/FilterScreen.js`, `styles/FilterStyle.js`, `utils/distance.js`, `utils/filterTasks.js` | [navn] |
+| Modul A: Opret opgave (virksomhed) | `screens/OpretOpgaveScreen.js`, `styles/OpretOpgaveStyle.js` | [Iben Skafdrup] |
+| Modul B: Mine opgaver og ansøgere (virksomhed) | `screens/MineOpgaverScreen.js`, `styles/MineOpgaverStyle.js` | [Andreas Hougaard] |
+| Modul C: Mine ansøgninger (studerende) | `screens/MineAnsoegningerScreen.js`, `styles/MineAnsoegningerStyle.js` | [Magnus Høgh] |
+| Modul D: Filter, lokation og radius (studerende) | `screens/FilterScreen.js`, `styles/FilterStyle.js`, `utils/distance.js`, `utils/filterTasks.js` | [Magnus Høgh] |
 
 ## Link til demovideo
 
